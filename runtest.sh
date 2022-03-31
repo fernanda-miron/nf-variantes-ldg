@@ -1,4 +1,4 @@
-vcf_file="test/data/CA67CAR597-1_S1.vcf"
+vcf_file="test/data/test.vcf"
 output_directory="test/results"
 
 echo -e "======\n Testing NF execution \n======" \
